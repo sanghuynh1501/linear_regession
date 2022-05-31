@@ -1,1 +1,1 @@
-# linear regession
+a example of linear regession in javascript
